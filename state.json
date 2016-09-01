@@ -1,0 +1,66 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 27.000000<br>Discom_Cod: 1000228.000000<br>Town_Name: Daund<br>Town_Code: 802816.000000<br>Go_Live_In: YES<br>dtname: Pune<br>stname: MAHARASHTRA<br>stcode11: 27<br>dtcode11: 521" }, "geometry": { "type": "Point", "coordinates": [ 74.583813, 18.464958, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 19.000000<br>Discom_Cod: 1000369.000000<br>Town_Name: Barddhaman<br>Town_Code: 801678.000000<br>Go_Live_In: YES<br>dtname: Barddhaman<br>stname: WEST BENGAL<br>stcode11: 19<br>dtcode11: 335" }, "geometry": { "type": "Point", "coordinates": [ 87.857255, 23.240636, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 23.000000<br>Discom_Cod: 1000104.000000<br>Town_Name: Raisen<br>Town_Code: 802323.000000<br>Go_Live_In: YES<br>dtname: Raisen<br>stname: MADHYA PRADESH<br>stcode11: 23<br>dtcode11: 446" }, "geometry": { "type": "Point", "coordinates": [ 77.782248, 23.330127, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 3.000000<br>Discom_Cod: 1000429.000000<br>Town_Name: Ludhiana<br>Town_Code: 800196.000000<br>Go_Live_In: YES<br>dtname: Ludhiana<br>stname: PUNJAB<br>stcode11: 03<br>dtcode11: 041" }, "geometry": { "type": "Point", "coordinates": [ 75.856698, 30.913355, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 12.000000<br>Discom_Cod: 1000759.000000<br>Town_Name: Along<br>Town_Code: 801432.000000<br>Go_Live_In: <br>dtname: West Siang<br>stname: ARUNACHAL PRADESH<br>stcode11: 12<br>dtcode11: 250" }, "geometry": { "type": "Point", "coordinates": [ 94.798056, 28.171514, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 6.000000<br>Discom_Cod: 1000036.000000<br>Town_Name: Jind<br>Town_Code: 800393.000000<br>Go_Live_In: YES<br>dtname: Jind<br>stname: HARYANA<br>stcode11: 06<br>dtcode11: 077" }, "geometry": { "type": "Point", "coordinates": [ 76.315813, 29.315134, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 2.000000<br>Discom_Cod: 1000309.000000<br>Town_Name: YOI<br>Town_Code: 800094.000000<br>Go_Live_In: YES<br>dtname: Kangra<br>stname: HIMACHAL PRADESH<br>stcode11: 02<br>dtcode11: 024" }, "geometry": { "type": "Point", "coordinates": [ 76.383156, 32.185678, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 20.000000<br>Discom_Cod: 1000754.000000<br>Town_Name: Hazaribag<br>Town_Code: 801788.000000<br>Go_Live_In: YES<br>dtname: Hazaribagh<br>stname: JHARKHAND<br>stcode11: 20<br>dtcode11: 360" }, "geometry": { "type": "Point", "coordinates": [ 85.35492, 23.99637, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 17.000000<br>Discom_Cod: 1000758.000000<br>Town_Name: Williamnagar<br>Town_Code: 801538.000000<br>Go_Live_In: <br>dtname: East Garo Hills<br>stname: MEGHALAYA<br>stcode11: 17<br>dtcode11: 294" }, "geometry": { "type": "Point", "coordinates": [ 90.591987, 25.529365, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 15.000000<br>Discom_Cod: 1000244.000000<br>Town_Name: Champhai<br>Town_Code: 801510.000000<br>Go_Live_In: <br>dtname: Champhai<br>stname: MIZORAM<br>stcode11: 15<br>dtcode11: 284" }, "geometry": { "type": "Point", "coordinates": [ 93.322545, 23.478753, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 13.000000<br>Discom_Cod: 1000437.000000<br>Town_Name: Zunheboto<br>Town_Code: 801455.000000<br>Go_Live_In: <br>dtname: Zunheboto<br>stname: NAGALAND<br>stcode11: 13<br>dtcode11: 263" }, "geometry": { "type": "Point", "coordinates": [ 94.528078, 26.016836, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 8.000000<br>Discom_Cod: 1000239.000000<br>Town_Name: Didwana<br>Town_Code: 800534.000000<br>Go_Live_In: <br>dtname: Nagaur<br>stname: RAJASTHAN<br>stcode11: 08<br>dtcode11: 112" }, "geometry": { "type": "Point", "coordinates": [ 74.575359, 27.400477, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 16.000000<br>Discom_Cod: 1000367.000000<br>Town_Name: Khowai<br>Town_Code: 801520.000000<br>Go_Live_In: YES<br>dtname: Khowai<br>stname: TRIPURA<br>stcode11: 16<br>dtcode11: 708" }, "geometry": { "type": "Point", "coordinates": [ 91.629326, 24.059355, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 22.000000<br>Discom_Cod: 1000535.000000<br>Town_Name: Bilaspur<br>Town_Code: 801975.000000<br>Go_Live_In: YES<br>dtname: Bilaspur<br>stname: CHHATTISGARH<br>stcode11: 22<br>dtcode11: 406" }, "geometry": { "type": "Point", "coordinates": [ 82.162106, 22.070991, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 24.000000<br>Discom_Cod: 1000419.000000<br>Town_Name: Jasdan<br>Town_Code: 802503.000000<br>Go_Live_In: YES<br>dtname: Rajkot<br>stname: GUJARAT<br>stcode11: 24<br>dtcode11: 476" }, "geometry": { "type": "Point", "coordinates": [ 71.207829, 22.037411, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 10.000000<br>Discom_Cod: 1000753.000000<br>Town_Name: Mokama<br>Town_Code: 801383.000000<br>Go_Live_In: YES<br>dtname: Patna<br>stname: BIHAR<br>stcode11: 10<br>dtcode11: 230" }, "geometry": { "type": "Point", "coordinates": [ 85.916027, 25.393785, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 14.000000<br>Discom_Cod: 1000757.000000<br>Town_Name: Lilong (Imphal West)<br>Town_Code: 801492.000000<br>Go_Live_In: YES<br>dtname: Imphal West<br>stname: MANIPUR<br>stcode11: 14<br>dtcode11: 277" }, "geometry": { "type": "Point", "coordinates": [ 93.933192, 24.71767, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 1.000000<br>Discom_Cod: 1000345.000000<br>Town_Name: Duru-Verinag<br>Town_Code: 800039.000000<br>Go_Live_In: <br>dtname: Anantnag<br>stname: JAMMU &amp; KASHMIR<br>stcode11: 01<br>dtcode11: 014" }, "geometry": { "type": "Point", "coordinates": [ 75.223326, 33.573523, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 18.000000<br>Discom_Cod: 1000691.000000<br>Town_Name: Dhekiajuli<br>Town_Code: 801570.000000<br>Go_Live_In: YES<br>dtname: Sonitpur<br>stname: ASSAM<br>stcode11: 18<br>dtcode11: 306" }, "geometry": { "type": "Point", "coordinates": [ 92.480229, 26.702006, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 32.000000<br>Discom_Cod: 1000096.000000<br>Town_Name: Thrissur<br>Town_Code: 803280.000000<br>Go_Live_In: YES<br>dtname: Thrissur<br>stname: KERALA<br>stcode11: 32<br>dtcode11: 594" }, "geometry": { "type": "Point", "coordinates": [ 76.215547, 10.521655, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 9.000000<br>Discom_Cod: 1000357.000000<br>Town_Name: Chandausi<br>Town_Code: 800689.000000<br>Go_Live_In: YES<br>dtname: Moradabad<br>stname: UTTAR PRADESH<br>stcode11: 09<br>dtcode11: 135" }, "geometry": { "type": "Point", "coordinates": [ 78.777523, 28.446192, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 36.000000<br>Discom_Cod: 1000755.000000<br>Town_Name: Siddipet<br>Town_Code: 802914.000000<br>Go_Live_In: YES<br>dtname: Medak<br>stname: TELANGANA<br>stcode11: 36<br>dtcode11: 535" }, "geometry": { "type": "Point", "coordinates": [ 78.851916, 18.102598, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 28.000000<br>Discom_Cod: 1000751.000000<br>Town_Name: Tanuku<br>Town_Code: 802963.000000<br>Go_Live_In: YES<br>dtname: West Godavari<br>stname: ANDHRA PRADESH<br>stcode11: 37<br>dtcode11: 546" }, "geometry": { "type": "Point", "coordinates": [ 81.684532, 16.751317, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 29.000000<br>Discom_Cod: 1000224.000000<br>Town_Name: Harihar<br>Town_Code: 803124.000000<br>Go_Live_In: YES<br>dtname: Davanagere<br>stname: KARNATAKA<br>stcode11: 29<br>dtcode11: 567" }, "geometry": { "type": "Point", "coordinates": [ 75.806563, 14.510405, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 30.000000<br>Discom_Cod: 100013.000000<br>Town_Name: Margao<br>Town_Code: 803249.000000<br>Go_Live_In: <br>dtname: South Goa<br>stname: GOA<br>stcode11: 30<br>dtcode11: 586" }, "geometry": { "type": "Point", "coordinates": [ 73.958974, 15.273172, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 21.000000<br>Discom_Cod: 1000736.000000<br>Town_Name: Cuttack<br>Town_Code: 801844.000000<br>Go_Live_In: <br>dtname: Cuttack<br>stname: ODISHA<br>stcode11: 21<br>dtcode11: 381" }, "geometry": { "type": "Point", "coordinates": [ 85.880872, 20.459843, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 34.000000<br>Discom_Cod: 1000648.000000<br>Town_Name: Yanam<br>Town_Code: 804035.000000<br>Go_Live_In: <br>dtname: Yanam<br>stname: PUDUCHERRY<br>stcode11: 34<br>dtcode11: 634" }, "geometry": { "type": "Point", "coordinates": [ 82.214819, 16.732214, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 33.000000<br>Discom_Cod: 1000694.000000<br>Town_Name: Manapparai<br>Town_Code: 803635.000000<br>Go_Live_In: YES<br>dtname: Tiruchirappalli<br>stname: TAMIL NADU<br>stcode11: 33<br>dtcode11: 614" }, "geometry": { "type": "Point", "coordinates": [ 78.423171, 10.608267, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 5.000000<br>Discom_Cod: 1000350.000000<br>Town_Name: Pauri<br>Town_Code: 800316.000000<br>Go_Live_In: YES<br>dtname: Garhwal<br>stname: UTTARAKHAND<br>stcode11: 05<br>dtcode11: 061" }, "geometry": { "type": "Point", "coordinates": [ 78.769812, 30.155066, 0.0 ] } }
+,
+{ "type": "Feature", "properties": { "Name": "", "Description": "description: <br>State_Code: 11.000000<br>Discom_Cod: 1000685.000000<br>Town_Name: Upper Tadong<br>Town_Code: 990010.000000<br>Go_Live_In: YES<br>dtname: East District<br>stname: SIKKIM<br>stcode11: 11<br>dtcode11: 244" }, "geometry": { "type": "Point", "coordinates": [ 88.599379, 27.314583, 0.0 ] } }
+
+]
+}

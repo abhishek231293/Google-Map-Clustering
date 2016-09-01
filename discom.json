@@ -1,0 +1,102 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "X": "74.408787129626006", "Y": "16.949728036480099", "field_1": "27", "field_2": "1000228", "field_3": "Aashta", "field_4": "802892", "field_5": "YES", "field_6": "Sangli", "field_7": "MAHARASHTRA", "field_8": "27", "field_9": "531", "field_10": "16.9497280364801", "field_11": "74.408787129626" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "89.448873661411994", "Y": "26.318607231269802", "field_1": "19", "field_2": "1000369", "field_3": "Koch Bihar", "field_4": "801646", "field_5": "YES", "field_6": "Koch Bihar", "field_7": "WEST BENGAL", "field_8": "19", "field_9": "329", "field_10": "26.3186072312698", "field_11": "89.448873661412" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "78.198034584032399", "Y": "24.180888901873502", "field_1": "23", "field_2": "1000026", "field_3": "Bina -Etawa", "field_4": "802153", "field_5": "YES", "field_6": "Sagar", "field_7": "MADHYA PRADESH", "field_8": "23", "field_9": "427", "field_10": "24.1808889018735", "field_11": "78.1980345840324" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "75.681397952970698", "Y": "22.613353900328299", "field_1": "23", "field_2": "1000232", "field_3": "Pithampur", "field_4": "802261", "field_5": "YES", "field_6": "Dhar", "field_7": "MADHYA PRADESH", "field_8": "23", "field_9": "438", "field_10": "22.6133539003283", "field_11": "75.6813979529707" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "77.5092793072738", "Y": "23.0945620244689", "field_1": "23", "field_2": "1000104", "field_3": "Mandideep", "field_4": "802327", "field_5": "YES", "field_6": "Raisen", "field_7": "MADHYA PRADESH", "field_8": "23", "field_9": "446", "field_10": "23.0945620244689", "field_11": "77.5092793072738" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "76.290914457437907", "Y": "30.664816986901702", "field_1": "3", "field_2": "1000429", "field_3": "Gobindgarh", "field_4": "800187", "field_5": "YES", "field_6": "Fatehgarh Sahib", "field_7": "PUNJAB", "field_8": "3", "field_9": "40", "field_10": "30.6648169869017", "field_11": "76.2909144574379" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "93.042557519598006", "Y": "27.358599078432601", "field_1": "12", "field_2": "1000759", "field_3": "Seppa", "field_4": "801427", "field_5": "", "field_6": "East Kameng", "field_7": "ARUNACHAL PRADESH", "field_8": "12", "field_9": "247", "field_10": "27.3585990784326", "field_11": "93.042557519598" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "76.939168596188907", "Y": "30.838209861334899", "field_1": "6", "field_2": "1000036", "field_3": "Kalka", "field_4": "800361", "field_5": "YES", "field_6": "Panchkula", "field_7": "HARYANA", "field_8": "6", "field_9": "69", "field_10": "30.8382098613349", "field_11": "76.9391685961889" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "75.903296827878904", "Y": "29.7128164858328", "field_1": "6", "field_2": "1000035", "field_3": "Tohana", "field_4": "800397", "field_5": "YES", "field_6": "Fatehabad", "field_7": "HARYANA", "field_8": "6", "field_9": "78", "field_10": "29.7128164858328", "field_11": "75.9032968278789" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "76.127371311350899", "Y": "32.557724528529903", "field_1": "2", "field_2": "1000309", "field_3": "Chamba", "field_4": "800091", "field_5": "YES", "field_6": "Chamba", "field_7": "HIMACHAL PRADESH", "field_8": "2", "field_9": "23", "field_10": "32.5577245285299", "field_11": "76.1273713113509" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "85.325219626722301", "Y": "23.372054636026199", "field_1": "20", "field_2": "1000754", "field_3": "Ranchi", "field_4": "801794", "field_5": "", "field_6": "Ranchi", "field_7": "JHARKHAND", "field_8": "20", "field_9": "364", "field_10": "23.3720546360262", "field_11": "85.3252196267223" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "93.836225698833502", "Y": "24.721228013458301", "field_1": "14", "field_2": "1000757", "field_3": "Nambol", "field_4": "801469", "field_5": "YES", "field_6": "Bishnupur", "field_7": "MANIPUR", "field_8": "14", "field_9": "275", "field_10": "24.7212280134583", "field_11": "93.8362256988335" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "90.219916144901902", "Y": "25.5165134215714", "field_1": "17", "field_2": "1000758", "field_3": "Tura", "field_4": "801536", "field_5": "", "field_6": "West Garo Hills", "field_7": "MEGHALAYA", "field_8": "17", "field_9": "293", "field_10": "25.5165134215714", "field_11": "90.2199161449019" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "92.677279086805797", "Y": "24.230459476224301", "field_1": "15", "field_2": "1000244", "field_3": "Kolasib", "field_4": "801503", "field_5": "YES", "field_6": "Kolasib", "field_7": "MIZORAM", "field_8": "15", "field_9": "282", "field_10": "24.2304594762243", "field_11": "92.6772790868058" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "95.031085815742102", "Y": "26.722133937258", "field_1": "13", "field_2": "1000437", "field_3": "Mon Town", "field_4": "801451", "field_5": "", "field_6": "Mon", "field_7": "NAGALAND", "field_8": "13", "field_9": "261", "field_10": "26.722133937258", "field_11": "95.0310858157421" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "73.868601075467694", "Y": "29.926503257660599", "field_1": "8", "field_2": "1000507", "field_3": "Ganganagar", "field_4": "800446", "field_5": "", "field_6": "Ganganagar", "field_7": "RAJASTHAN", "field_8": "8", "field_9": "99", "field_10": "29.9265032576606", "field_11": "73.8686010754677" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "75.400225823288807", "Y": "28.125869128910001", "field_1": "8", "field_2": "1000239", "field_3": "Jhunjhunun", "field_4": "800476", "field_5": "", "field_6": "Jhunjhunun", "field_7": "RAJASTHAN", "field_8": "8", "field_9": "103", "field_10": "28.12586912891", "field_11": "75.4002258232888" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "76.841664591016695", "Y": "28.209724058233501", "field_1": "8", "field_2": "1000115", "field_3": "Bhiwadi", "field_4": "800487", "field_5": "", "field_6": "Alwar", "field_7": "RAJASTHAN", "field_8": "8", "field_9": "104", "field_10": "28.2097240582335", "field_11": "76.8416645910167" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "88.618272483465702", "Y": "27.3359961552468", "field_1": "11", "field_2": "1000685", "field_3": "Gangtok", "field_4": "801421", "field_5": "YES", "field_6": "East District", "field_7": "SIKKIM", "field_8": "11", "field_9": "244", "field_10": "27.3359961552468", "field_11": "88.6182724834657" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "91.6373578013892", "Y": "23.838406587690201", "field_1": "16", "field_2": "1000367", "field_3": "Teliamura", "field_4": "801521", "field_5": "YES", "field_6": "Khowai", "field_7": "TRIPURA", "field_8": "16", "field_9": "708", "field_10": "23.8384065876902", "field_11": "91.6373578013892" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "82.352687139942702", "Y": "23.186671637670699", "field_1": "22", "field_2": "1000535", "field_3": "Chirmiri", "field_4": "801916", "field_5": "YES", "field_6": "Koriya", "field_7": "CHHATTISGARH", "field_8": "22", "field_9": "400", "field_10": "23.1866716376707", "field_11": "82.3526871399427" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "71.212305113001193", "Y": "21.599226894410101", "field_1": "24", "field_2": "1000419", "field_3": "Amreli", "field_4": "802542", "field_5": "YES", "field_6": "Amreli", "field_7": "GUJARAT", "field_8": "24", "field_9": "480", "field_10": "21.5992268944101", "field_11": "71.2123051130012" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "72.989137730411201", "Y": "21.6329578946794", "field_1": "24", "field_2": "1000023", "field_3": "Anklesvar", "field_4": "802608", "field_5": "YES", "field_6": "Bharuch", "field_7": "GUJARAT", "field_8": "24", "field_9": "488", "field_10": "21.6329578946794", "field_11": "72.9891377304112" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "73.336802158518907", "Y": "22.957579479782101", "field_1": "24", "field_2": "1000230", "field_3": "BALASINOR", "field_4": "802572", "field_5": "YES", "field_6": "Mahisagar", "field_7": "GUJARAT", "field_8": "24", "field_9": "730", "field_10": "22.9575794797821", "field_11": "73.3368021585189" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "72.363130327731795", "Y": "22.8292590328683", "field_1": "24", "field_2": "1000729", "field_3": "Bavla", "field_4": "802487", "field_5": "YES", "field_6": "Ahmadabad", "field_7": "GUJARAT", "field_8": "24", "field_9": "474", "field_10": "22.8292590328683", "field_11": "72.3631303277318" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "84.326539446665606", "Y": "27.163231654083301", "field_1": "10", "field_2": "1000752", "field_3": "Ramnagar", "field_4": "801277", "field_5": "YES", "field_6": "Pashchim Champaran", "field_7": "BIHAR", "field_8": "10", "field_9": "203", "field_10": "27.1632316540833", "field_11": "84.3265394466656" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "87.098323843908602", "Y": "25.3869057713123", "field_1": "10", "field_2": "1000753", "field_3": "Naugachhia", "field_4": "801351", "field_5": "YES", "field_6": "Bhagalpur", "field_7": "BIHAR", "field_8": "10", "field_9": "224", "field_10": "25.3869057713123", "field_11": "87.0983238439086" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "75.1069667157753", "Y": "33.793190433286", "field_1": "1", "field_2": "1000345", "field_3": "Bijbehara", "field_4": "800030", "field_5": "", "field_6": "Anantnag", "field_7": "JAMMU & KASHMIR", "field_8": "1", "field_9": "14", "field_10": "33.793190433286", "field_11": "75.1069667157753" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "89.980328259268404", "Y": "26.435516222583399", "field_1": "18", "field_2": "1000691", "field_3": "Gossaigaon", "field_4": "801546", "field_5": "YES", "field_6": "Kokrajhar", "field_7": "ASSAM", "field_8": "18", "field_9": "300", "field_10": "26.4355162225834", "field_11": "89.9803282592684" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "74.990248763220194", "Y": "12.5035905014504", "field_1": "32", "field_2": "1000096", "field_3": "Kasaragod", "field_4": "803255", "field_5": "YES", "field_6": "Kasaragod", "field_7": "KERALA", "field_8": "32", "field_9": "588", "field_10": "12.5035905014504", "field_11": "74.9902487632202" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "77.543444157756497", "Y": "29.9692830596893", "field_1": "9", "field_2": "1000357", "field_3": "Saharanpur", "field_4": "800630", "field_5": "YES", "field_6": "Saharanpur", "field_7": "UTTAR PRADESH", "field_8": "9", "field_9": "132", "field_10": "29.9692830596893", "field_11": "77.5434441577565" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "78.286509110361706", "Y": "28.029854026325498", "field_1": "9", "field_2": "1000508", "field_3": "Atrauli", "field_4": "800765", "field_5": "YES", "field_6": "Aligarh", "field_7": "UTTAR PRADESH", "field_8": "9", "field_9": "143", "field_10": "28.0298540263255", "field_11": "78.2865091103617" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "78.755187870874707", "Y": "28.067773984704399", "field_1": "9", "field_2": "1000240", "field_3": "Sahaswan", "field_4": "800841", "field_5": "YES", "field_6": "Budaun", "field_7": "UTTAR PRADESH", "field_8": "9", "field_9": "149", "field_10": "28.0677739847044", "field_11": "78.7551878708747" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "80.578666179304307", "Y": "26.036435969381301", "field_1": "9", "field_2": "1000433", "field_3": "Bindki", "field_4": "801062", "field_5": "YES", "field_6": "Fatehpur", "field_7": "UTTAR PRADESH", "field_8": "9", "field_9": "172", "field_10": "26.0364359693813", "field_11": "80.5786661793043" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "78.536154748245593", "Y": "19.674677367300099", "field_1": "36", "field_2": "1000756", "field_3": "Adilabad", "field_4": "802896", "field_5": "YES", "field_6": "Adilabad", "field_7": "TELANGANA", "field_8": "36", "field_9": "532", "field_10": "19.6746773673001", "field_11": "78.5361547482456" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "78.264112926399903", "Y": "18.048092917094699", "field_1": "36", "field_2": "1000755", "field_3": "Medak", "field_4": "802913", "field_5": "YES", "field_6": "Medak", "field_7": "TELANGANA", "field_8": "36", "field_9": "535", "field_10": "18.0480929170947", "field_11": "78.2641129263999" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "84.411204715403301", "Y": "18.770469212231799", "field_1": "28", "field_2": "1000751", "field_3": "Palasa Kasibugga", "field_4": "802938", "field_5": "YES", "field_6": "Srikakulam", "field_7": "ANDHRA PRADESH", "field_8": "37", "field_9": "542", "field_10": "18.7704692122318", "field_11": "84.4112047154033" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "80.096399752180901", "Y": "16.8909090207963", "field_1": "28", "field_2": "1000750", "field_3": "Jaggaiahpet", "field_4": "802967", "field_5": "YES", "field_6": "Krishna", "field_7": "ANDHRA PRADESH", "field_8": "37", "field_9": "547", "field_10": "16.8909090207963", "field_11": "80.0963997521809" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "76.568662314377093", "Y": "17.559841892332798", "field_1": "29", "field_2": "1000709", "field_3": "Aland", "field_4": "803205", "field_5": "YES", "field_6": "Gulbarga", "field_7": "KARNATAKA", "field_8": "29", "field_9": "579", "field_10": "17.5598418923328", "field_11": "76.5686623143771" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "77.694242000646696", "Y": "12.710321738196701", "field_1": "29", "field_2": "1000224", "field_3": "Anekal", "field_4": "803163", "field_5": "YES", "field_6": "Bangalore", "field_7": "KARNATAKA", "field_8": "29", "field_9": "572", "field_10": "12.7103217381967", "field_11": "77.6942420006467" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "76.257229427538107", "Y": "13.3162076008007", "field_1": "29", "field_2": "1000051", "field_3": "Arsikere", "field_4": "803173", "field_5": "YES", "field_6": "Hassan", "field_7": "KARNATAKA", "field_8": "29", "field_9": "574", "field_10": "13.3162076008007", "field_11": "76.2572294275381" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "75.066526083472198", "Y": "16.727253455915001", "field_1": "29", "field_2": "1000297", "field_3": "Athni", "field_4": "803024", "field_5": "YES", "field_6": "Belgaum", "field_7": "KARNATAKA", "field_8": "29", "field_9": "555", "field_10": "16.727253455915", "field_11": "75.0665260834722" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "75.041178154371906", "Y": "12.8959013138053", "field_1": "29", "field_2": "1000332", "field_3": "Bantval", "field_4": "803183", "field_5": "YES", "field_6": "Dakshina Kannada", "field_7": "KARNATAKA", "field_8": "29", "field_9": "575", "field_10": "12.8959013138053", "field_11": "75.0411781543719" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "73.810746300199995", "Y": "15.591507121498701", "field_1": "30", "field_2": "100013", "field_3": "Mapusa", "field_4": "803242", "field_5": "", "field_6": "North Goa", "field_7": "GOA", "field_8": "30", "field_9": "585", "field_10": "15.5915071214987", "field_11": "73.8107463002" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "86.560128859784896", "Y": "20.580955665827702", "field_1": "21", "field_2": "1000736", "field_3": "Pattamundai", "field_4": "801837", "field_5": "", "field_6": "Kendrapara", "field_7": "ODISHA", "field_8": "21", "field_9": "379", "field_10": "20.5809556658277", "field_11": "86.5601288597849" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "82.214818507655906", "Y": "16.7322143384764", "field_1": "34", "field_2": "1000648", "field_3": "Yanam", "field_4": "804035", "field_5": "", "field_6": "Yanam", "field_7": "PUDUCHERRY", "field_8": "34", "field_9": "634", "field_10": "16.7322143384764", "field_11": "82.2148185076559" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "80.276903148741496", "Y": "13.103640718341699", "field_1": "33", "field_2": "1000694", "field_3": "Chennai", "field_4": "803339", "field_5": "", "field_6": "Chennai", "field_7": "TAMIL NADU", "field_8": "33", "field_9": "603", "field_10": "13.1036407183417", "field_11": "80.2769031487415" }, "geometry": null }
+,
+{ "type": "Feature", "properties": { "X": "78.440774743417194", "Y": "30.729372983314299", "field_1": "5", "field_2": "1000350", "field_3": "Uttarkashi", "field_4": "800288", "field_5": "YES", "field_6": "Uttarkashi", "field_7": "UTTARAKHAND", "field_8": "5", "field_9": "56", "field_10": "30.7293729833143", "field_11": "78.4407747434172" }, "geometry": null }
+
+]
+}
