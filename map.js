@@ -1,107 +1,39 @@
 var myCenter = new google.maps.LatLng(20.5937,78.9629);
 var geocoder = new google.maps.Geocoder();
 stateDetail = [];
-function loadMap() {
-    var content = '<tr><th>State Id</th><th>Discom Id</th><th>Discom Name</th><th>Town Name</th><th>Decription</th></tr>';
+var items = [];
+var description = [];
+function loadMap($level) {
 
-
-    $.getJSON("IT_Town.json", function (data) {
-
-        var items = [];
-        var description = [];
-        var marker_list1 = [];
-        var marker_list1 = [];
-        var discomList = [];
-        $.each(data.features, function (key, val) {
-
-            $.each(val, function (index, detail) {
-
-                if(index == 'geometry'){
-                    var location = detail.coordinates[0] + "," + detail.coordinates[1];
-
-                    var desc = val.properties.Description;
-                    var descDetails = desc.split('<br>');
-
-                    var statedata = descDetails[8].split(':');
-                    var discomdata = descDetails[2].split(':');
-
-                    var stateCode = statedata[1].trim();
-                    var discomCode = discomdata[1].trim();
-
-                    var disNamedata = descDetails[6].split(':');
-                    var disName = disNamedata[1].trim();
-
-                    var towndata = descDetails[3].split(':');
-                    var townName = towndata[1].trim();
-
-
-                    //
-                    // if(stateCode == '32'){
-                    //     if(discomCode == '601') {
-                    //         console.log('heee');
-                    //     }else {
-                    //         console.log('hiiii')
-                    //     }
-                    // }
-
-                    description.push(desc);
-                    content += '<tr><td>'+stateCode+'</td><td>'+discomCode+'</td><td>'+disName+'</td><td>'+townName+'</td><td>'+desc+'</td></tr>';
-                    if(discomList.indexOf(discomCode) != -1) {
-                        $.each(detail, function (index1, detail1) {
-                            if (index1 == 'coordinates') {
-                                items.push(stateDetail[stateCode]);
-                            }
-                        });
-                    }else {
-                        discomList.push(discomCode);
-                    }
-                }
-
-            });
-
-
-
-        });
-        // console.log(content);
+    if($level != 'discom') {
         $.ajax({
             type: "get",
-            data:{'data':content},
-            url: "data.php"
-        }).done(function( result ) {
-            console.log('done');
+            data: {'section': 'all_india'},
+            url: "connection.php"
+        }).done(function (result) {
+            result = JSON.parse(result);
+            $.each(result, function (index1, detail1) {
+                items.push(detail1.location);
+                description.push("Discom ID :: " + detail1.discom_id + ": Town Name::" + detail1.town_name);
+            });
+            initializes(items, description);
         });
-        console.log(content);return false;
-        initializes(items,description);
+    }else{
+        $.ajax({
+            type: "get",
+            data: {'section': 'state_level'},
+            url: "connection.php"
+        }).done(function (result) {
+            result = JSON.parse(result);
+            $.each(result, function (index1, detail1) {
+                items.push(detail1.location);
+                description.push("Discom ID :: " + detail1.discom_id + ": Town Name::" + detail1.town_name);
+            });
+            initializes(items, description);
+        });
+    }
 
-    });
 
-    // $.getJSON("IT_Town.json", function (data) {
-    //     var items = [];
-    //     var description = [];
-    //     var marker_list1 = [];
-    //     var marker_list1 = [];
-    //     $.each(data.features, function (key, val) {
-    //         $.each(val, function (index, detail) {
-    //
-    //             if(index == 'geometry'){
-    //                 $.each(detail, function (index1, detail1) {
-    //                     if(index1 == 'coordinates'){
-    //                         items.push(detail1[0] + ',' + detail1[1]);
-    //                     }
-    //                 });
-    //             }
-    //             if(index == 'properties'){
-    //                 var desc = detail['Description'];
-    //                 var descDetails = desc.split('<br>');
-    //                 var statedata = descDetails[7].split(':');
-    //                 var state = statedata[1].trim();
-    //               description.push(detail['Description']);
-    //             }
-    //
-    //         });
-    //     });
-    //     initializes(items,description);
-    // });
 }
 
 function initializes($locations,$description)
@@ -134,18 +66,10 @@ function initializes($locations,$description)
         anchor: new google.maps.Point(0, 0) // anchor
     };
     var bounds = new google.maps.LatLngBounds();
-
     $.each($locations, function( index, value ) {
-
         var location = value.split(',').map(Number);
         myLatLng = new google.maps.LatLng(location[1],location[0]);
 
-        if($description[index]){
-            var desc = $description[index];
-            var descDetails = desc.split('<br>');
-            var statedata = descDetails[7].split(':');
-            var state = statedata[1].trim();
-        }
         marker = new google.maps.Marker({
             position:myLatLng,
             icon: icon
@@ -164,8 +88,9 @@ function initializes($locations,$description)
             }
 
             prev_infowindow = infowindow;
-            infowindow.open(map, marker);
+            infowindow.open(map);
         });
+
         google.maps.event.addListener(marker,'mouseover', (function(marker,content,infowindow){
             return function() {
                 infowindow.setContent(content);
@@ -182,30 +107,24 @@ function initializes($locations,$description)
     };
 
     var markerCluster  = new MarkerClusterer(map, markers, options);
-    google.maps.event.addListener(markerCluster, 'mouseover', function(){
 
+    google.maps.event.addListener(map, 'click', function (event) {
+        setTimeout(function () {
+            if (!clusterClicked) {
+
+                // alert('Map click executed');
+                loadMap('discom');
+
+            }
+            else {
+                clusterClicked = false;
+
+            }
+        }, 0);
     });
-    markerCluster.onClickZoom = function() { return multiChoice(markerCluster); }
+
+    google.maps.event.addListener(markerCluster, "clusterclick", function (cluster) {
+        clusterClicked = false;
+    });
+
 }
-
-function multiChoice(mc) {
-
-    var cluster = mc.clusters_;
-    // if more than 1 point shares the same lat/long
-    // the size of the cluster array will be 1 AND
-    // the number of markers in the cluster will be > 1
-    // REMEMBER: maxZoom was already reached and we can't zoom in anymore
-    if (cluster.length == 1 && cluster[0].markers_.length > 1)
-    {
-        var markers = cluster[0].markers_;
-        for (var i=0; i < markers.length; i++)
-        {
-            // you'll probably want to generate your list of options here...
-        }
-
-        return false;
-    }
-
-    return true;
-}
-

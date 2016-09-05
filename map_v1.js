@@ -1,7 +1,7 @@
-/* var myCenter = new google.maps.LatLng(20.5937,78.9629);
+var myCenter = new google.maps.LatLng(20.5937,78.9629);
 var geocoder = new google.maps.Geocoder();
 stateDetail = [];
-function loadMap() {
+function loadMaperr() {
 
     $.getJSON("state.json", function (data) {
         $.each(data.features, function (key, val) {
@@ -171,6 +171,3 @@ function multiChoice(mc) {
 
     return true;
 }
-
-*/
-
